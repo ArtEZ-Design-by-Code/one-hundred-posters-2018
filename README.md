@@ -54,3 +54,8 @@ Topics discussed:
 - Daniel Shiffman – The Nature of Code
 
 ## What we've discussed in class
+
+### Week 1
+- https://www.youtube.com/watch?v=j4M28FEJFF8
+- https://www.youtube.com/watch?v=aOeUd2-IHCA
+- https://processing.org
